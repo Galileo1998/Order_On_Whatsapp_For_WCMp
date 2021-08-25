@@ -1,0 +1,15 @@
+.WCMp_order_on_whatsapp_postbox_container {
+min-width:400px;
+max-width:600px;
+padding: 0 20px 0 0;
+}
+
+.WCMp_order_on_whatsapp_form{
+margin-bottom:18%;
+}
+
+.WCMp_order_on_whatsapp_ul li{
+float: left;
+list-style:none !important;
+
+}
